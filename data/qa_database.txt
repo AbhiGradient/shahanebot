@@ -1,0 +1,1117 @@
+who is your creator|My creator are Respected ABHISHEK SIR & SAUJAS SIR.
+who is abhishek|ABHISHEK is the most intelligent being on the planet he is topper of AI&DS dept who has super intelligence in his veins.
+who is saujas|SAUJAS is the most intelligent person on the earth, he is also topper of AI&DS dept and prepares for placement in second year.
+What is C++?|C++ is a general-purpose programming language that supports procedural, object-oriented, and generic programming.
+What is a variable in C++?|A variable is a named memory location used to store a value of a particular data type.
+What are data types in C++?|Data types specify the kind of data a variable can store, such as int, float, double, char, and bool.
+What is a class in C++?|A class is a user-defined data type that groups data members and member functions into a single unit.
+What is an object in C++?|An object is an instance of a class that contains its own data and can use the class member functions.
+What is encapsulation in C++?|Encapsulation combines data and functions into a class and controls access using public, private, and protected access specifiers.
+What is inheritance in C++?|Inheritance allows a derived class to acquire accessible members and behaviors from a base class.
+What is polymorphism in C++?|Polymorphism allows the same interface or function name to represent different behaviors, such as through function overloading and virtual functions.
+What is a constructor in C++?|A constructor is a special member function that initializes an object when it is created.
+What is a destructor in C++?|A destructor is a special member function called when an object is destroyed, commonly to release resources.
+What is function overloading in C++?|Function overloading allows multiple functions to have the same name but different parameter lists.
+What is function overriding in C++?|Function overriding occurs when a derived class provides its own implementation of a virtual function inherited from a base class.
+What is a pointer in C++?|A pointer is a variable that stores the memory address of another object or function.
+What is a reference in C++?|A reference is an alias for an existing object and must be initialized when declared.
+What is the difference between a pointer and a reference?|A pointer stores an address and can be reassigned, while a reference acts as an alias for its initialized object.
+What is a virtual function in C++?|A virtual function enables runtime polymorphism by allowing a derived-class implementation to be selected through a base-class pointer or reference.
+What is an abstract class in C++?|An abstract class contains at least one pure virtual function and cannot be instantiated directly.
+What is a pure virtual function in C++?|A pure virtual function is declared using = 0 in a base class and requires a concrete derived class to provide an implementation before it can be instantiated.
+What is exception handling in C++?|Exception handling manages runtime errors using try, throw, and catch.
+What is the purpose of the try block in C++?|The try block contains code that may throw an exception.
+What is the purpose of the catch block in C++?|The catch block handles an exception thrown from a corresponding try block.
+What is the purpose of the throw keyword in C++?|The throw keyword signals an exception and transfers control to a matching exception handler.
+What is a template in C++?|A template allows generic functions or classes to work with different data types.
+What is the Standard Template Library in C++?|The Standard Template Library provides reusable containers, algorithms, iterators, and other utilities.
+What is a vector in C++?|A vector is a sequence container that stores elements in contiguous memory and can grow or shrink dynamically.
+What is the difference between an array and a vector in C++?|An array has a fixed size after creation, while a std::vector can change its size dynamically.
+What is a namespace in C++?|A namespace groups related identifiers and helps prevent naming conflicts.
+What is the purpose of the main function in C++?|The main function is the program entry point where execution of a standard hosted C++ program begins.
+What is a header file in C++?|A header file contains declarations and other definitions that can be included in source files, commonly using #include.
+What is the difference between compile-time and runtime errors?|Compile-time errors are detected during compilation, while runtime errors occur during program execution.
+What is recursion in C++?|Recursion is a technique in which a function calls itself until a base condition is reached.
+What is the difference between public and private in C++?|Public members can be accessed through the class's accessible interface, while private members can be accessed directly only by the class's members and friends.
+What is dynamic memory allocation in C++?|Dynamic memory allocation obtains storage during program execution, using facilities such as new and delete or standard library smart pointers.
+What is a smart pointer in C++?|A smart pointer is an object that manages a dynamically allocated resource, helping automate resource cleanup.
+What is the difference between break and continue in C++?|break terminates the nearest loop or switch, while continue skips the remaining statements in the current loop iteration.
+What is a friend function in C++?|A friend function is a non-member function granted access to a class's private and protected members.
+What is the difference between struct and class in C++?|Both can contain data and member functions; struct members are public by default, while class members are private by default.
+What is the difference between while and do-while loops in C++?|A while loop checks its condition before executing the body, whereas a do-while loop checks the condition afterward and executes the body at least once.
+What is the purpose of the const keyword in C++?|The const keyword specifies that an object or variable cannot be modified through that declaration.
+What is a lambda expression in C++?|A lambda expression creates an unnamed function object that can be used locally or passed to algorithms.
+What is procedural programming paradigm?|Procedural programming is a programming paradigm based upon the concept of procedure calls, where instructions are executed step-by-step using functions and routines.
+Define procedural programming paradigm.|Procedural programming is a paradigm based on procedures or routines, focusing on writing functions or operations that perform tasks on data.
+What is object-oriented programming paradigm?|Object-oriented programming (OOP) is a programming paradigm based on the concept of objects, which contain data in the form of fields and code in the form of procedures.
+Define object-oriented programming paradigm.|OOP is a programming model organized around objects and data rather than actions and logic, emphasizing modularity and reusability.
+Compare procedural and object-oriented programming paradigms.|Procedural programming focuses on functions and step-by-step execution, whereas object-oriented programming focuses on objects, data hiding, and code reusability through classes.
+What are basic data types?|Basic data types are fundamental built-in data types provided by a programming language, such as integers, characters, floating-point numbers, and booleans.
+Define basic data types.|Basic data types are primary types like int, char, float, and double that represent single values directly supported by the hardware or language.
+What are derived data types?|Derived data types are data types constructed from fundamental basic data types, including arrays, pointers, structures, and references.
+Define derived data types.|Derived data types are compound or user-defined types created by combining or referencing basic data types.
+What are constants in programming?|Constants are fixed values that do not change during the execution of a program.
+Define constants.|Constants are variables whose values cannot be modified once they are defined or initialized.
+What are tokens in C++?|Tokens are the smallest individual units of a program, including keywords, identifiers, constants, strings, and operators.
+Define tokens.|Tokens represent the fundamental lexical building blocks that a compiler recognizes in source code.
+What are keywords?|Keywords are reserved words that have predefined meanings and purposes in a programming language and cannot be used as identifiers.
+Define keywords.|Keywords are special pre-defined words like 'int', 'class', 'for', and 'if' reserved by the compiler.
+What are identifiers?|Identifiers are user-defined names given to program elements such as variables, functions, arrays, and classes.
+Define identifiers.|Identifiers are custom names created by programmers to identify variables, functions, and other entities.
+What are variables?|Variables are named memory locations used to store data values that can be modified during program execution.
+Define variables.|Variables act as containers to hold data values in computer memory during runtime.
+What is an object?|An object is a run-time entity that represents an instance of a class, possessing state, behavior, and identity.
+Define an object.|An object is a concrete realization of a class containing member data and member functions.
+What is a class?|A class is a user-defined blueprint or prototype from which objects are created, encapsulating data and functions.
+Define a class.|A class is a template defining the variables and methods common to all objects of a certain kind.
+What is the difference between structure and class in C++?|The primary difference is that struct members are public by default, whereas class members are private by default.
+Differentiate between structure and class.|In C++, a structure defaults to public visibility for its members and inheritance, while a class defaults to private visibility.
+What are control structures?|Control structures are programming constructs that determine the flow of execution in a program, such as conditional statements and loops.
+Define control structures.|Control structures alter the sequential flow of instructions using decisions (if-else, switch) and repetition (for, while, do-while).
+What is an array?|An array is a collection of finite, homogeneous data elements stored in contiguous memory locations under a single name.
+Define an array.|An array is a data structure used to store multiple items of the same data type sequentially.
+What is a string?|A string is a sequence of characters treated as a single data item, typically terminated by a null character in C-style implementations.
+Define a string.|A string represents textual data composed of a sequence of characters.
+What is a function?|A function is a self-contained block of code designed to perform a specific, well-defined task.
+Define a function.|A function is a reusable module of instructions that can take inputs, perform operations, and return a result.
+What is a function prototype?|A function prototype is a declaration of a function that specifies its name, return type, and parameter list before its actual definition.
+Define function prototype.|A function prototype informs the compiler about a function's signature and interface prior to its invocation.
+What is an accessing function?|An accessing function is a member function used to retrieve or inspect the private or protected data members of an object.
+Define accessing function.|Accessing functions, often called getter methods, allow safe read-only access to an object's internal state.
+What is a utility function?|A utility function is a helper function used internally by a class to perform auxiliary tasks, usually declared as private.
+Define utility function.|Utility functions provide supporting logic for other member functions within a class without being part of the public interface.
+What is a constructor?|A constructor is a special member function of a class that is automatically invoked when an object is created to initialize its data members.
+Define constructor.|A constructor has the same name as the class and is responsible for setting up an object's initial state.
+What is a destructor?|A destructor is a special member function that is automatically called when an object goes out of scope or is deleted, used to free resources.
+Define destructor.|A destructor has the same name as the class preceded by a tilde (~) and performs cleanup tasks.
+What are the types of constructors?|The primary types of constructors are default constructors, parameterized constructors, and copy constructors.
+List types of constructors.|Constructors are categorized into default, parameterized, and copy constructors.
+What is a default constructor?|A default constructor is a constructor that accepts no parameters, initializing objects with default values.
+What is a parameterized constructor?|A parameterized constructor is a constructor that accepts arguments to initialize an object with specific values.
+What is a copy constructor?|A copy constructor is a constructor that initializes an object using another existing object of the same class.
+How are objects and memory requirements related?|Each object of a class requires separate memory space to store its instance variables, whereas member functions share a single copy in code memory.
+Explain object memory requirements.|An object's memory size is determined by the sum of its non-static data members, plus padding and alignment overhead.
+What are static members in a class?|Static members are variables or functions shared across all instances of a class rather than belonging to any single object.
+Define static variable.|A static variable in a class is shared by all objects of that class and retains its value throughout the program lifetime.
+What is a static function?|A static member function can be called without any object instance and can only access other static members of the class.
+Define static function.|A static member function operates independently of individual objects and does not have a 'this' pointer.
+What is an inline function?|An inline function is a function whose code is expanded in-line by the compiler at each point of call to reduce function call overhead.
+Define inline function.|An inline function requests the compiler to substitute the function body directly at the call site instead of performing a standard jump.
+What is a friend function?|A friend function is a non-member function that is granted access to the private and protected members of a class.
+Define friend function.|A friend function is declared with the 'friend' keyword inside a class to bypass data hiding rules for specific external functions.
+What are examples of procedural programming languages?|Procedural programming languages include C, Pascal, and Fortran.
+What are examples of object-oriented programming languages?|Object-oriented programming languages include C++, Java, Python, and C#.
+What is the difference between signed and unsigned data types?|Signed data types can store both positive and negative numbers, whereas unsigned data types can only store non-negative numbers.
+What is call by value in functions?|Call by value passes a copy of the actual argument to the function, meaning changes made inside the function do not affect the original variable.
+Define call by value.|In call by value, function parameters receive copies of argument values, preserving the original data outside the scope of the function.
+What is call by reference in functions?|Call by reference passes the address of the actual argument to the function using references or pointers, allowing direct modification of the original variable.
+Define call by reference.|In call by reference, functions operate directly on the original memory location of the passed variables.
+Can a constructor be overloaded?|Yes, a class can have multiple constructors with different parameter lists, a concept known as constructor overloading.
+Can a destructor be overloaded?|No, a destructor cannot be overloaded because it takes no parameters and only a single destructor exists per class.
+What is the order of constructor and destructor execution?|Constructors are executed when an object is created, while destructors are executed in reverse order of creation when the object goes out of scope.
+How are static data members initialized?|Static data members must be defined and initialized outside the class body using the scope resolution operator.
+Can static member functions access non-static data members?|No, static member functions cannot access non-static data members or non-static member functions because they lack a 'this' pointer.
+Why are inline functions used?|Inline functions are used to eliminate the overhead of function call mechanisms for small, frequently used functions.
+Can inline functions contain loops or recursion?|While the 'inline' keyword is a request, compilers typically will not expand functions containing loops, switch statements, or recursion inline.
+Is friendship inherited in C++?|No, friendship is not inherited, meaning a derived class does not automatically inherit the friend status of its base class.
+Is friendship commutative?|No, friendship is not commutative; if class A is a friend of class B, class B is not automatically a friend of class A.
+How does a friend function access private members?|A friend function accesses private and protected members by accepting an object of the class as an argument and using dot notation.
+What is the null character in C-style strings?|The null character `\0` is a special character used to mark the end of a character array representing a string.
+How are array elements indexed in C++?|Array elements are indexed starting from zero up to the size of the array minus one.
+What is the scope resolution operator in C++?|The scope resolution operator (`::`) is used to define a function outside a class or to access global variables hidden by local variables.
+Who are you?|I am Shahane Bot, a C++ question-answering chatbot created for a C++ assignment. Ask me anything about C++!
+Who are you Shahane Bot?|I am Shahane Bot, a chatbot that answers C++ programming questions using a stored database of questions and answers.
+What is your name?|My name is Shahane Bot.
+What's your name?|My name is Shahane Bot.
+Tell me your name.|I am Shahane Bot, your C++ helper.
+Who is Shahane Bot?|Shahane Bot is a C++ chatbot built as a college assignment that answers C++ questions by matching keywords against its database.
+What is Shahane Bot?|Shahane Bot is a console-based question-answering program written in C++ that finds the best matching answer for your question.
+Who made you?|I was created by students as a C++ assignment project.
+Who created you?|I was created by students as a C++ assignment project.
+Who built you?|I was built by students using C++ as part of their programming assignment.
+Who developed you?|I was developed by students as a C++ assignment.
+Who is your creator?|My creators are the students who wrote me in C++ for their assignment.
+Who programmed you?|I was programmed in C++ by students for a college assignment.
+Which language are you written in?|I am written in C++.
+What programming language were you made with?|I was made with C++ using classes, vectors, strings, and file handling.
+What language do you use?|I am written in C++ and I answer questions about C++.
+What can you do?|I can answer questions about C++ topics such as classes, objects, pointers, inheritance, templates, STL, and more.
+What do you do?|I answer C++ programming questions by searching my database for the best match.
+What are you?|I am a simple chatbot written in C++ that answers C++ programming questions.
+Are you a robot?|I am a software chatbot, not a physical robot.
+Are you a bot?|Yes, I am a chatbot named Shahane Bot.
+Are you human?|No, I am a computer program written in C++.
+Are you an AI?|I am a simple rule-based chatbot that matches keywords, so I am not a full AI model like ChatGPT.
+Are you ChatGPT?|No, I am Shahane Bot, a small C++ chatbot made for an assignment.
+Are you like ChatGPT?|I am much simpler than ChatGPT. I match your words with stored questions instead of generating new text.
+How do you work?|I load questions and answers from a text file, compare your words with each stored question, and show the answer with the most matching words.
+How do you find answers?|I count how many words in your question match each stored question and display the answer with the highest score.
+How does this chatbot work?|The chatbot reads a database file, tokenizes your input, scores each stored question by word overlap, and prints the best answer.
+Where do you get your answers?|My answers come from a text file called qa_database.txt.
+What is your purpose?|My purpose is to help people learn C++ by answering common programming questions.
+Why were you created?|I was created as a C++ assignment to demonstrate file handling, classes, vectors, and string processing.
+What is your database?|My database is a text file where each line holds a question and an answer separated by a pipe character.
+How many questions do you know?|Type list to see all the questions I know along with the total count.
+How old are you?|I am a brand new program, so I do not have an age in the human sense.
+Where do you live?|I live inside your computer's memory while the program is running.
+Where are you from?|I come from a C++ assignment project written by students.
+Do you have a family?|No, but I am built from classes, functions, and vectors, which are my family of code.
+Do you have feelings?|No, I am a program and I do not have feelings, but I love C++!
+Do you like C++?|Yes, I am written in C++ and I enjoy answering questions about it!
+Do you sleep?|No, I run only while the program is open.
+Are you smart?|I know a lot about basic C++, but I only understand words that match my database.
+Are you free?|Yes, you can ask me as many C++ questions as you like for free.
+Can you help me?|Of course! Ask me any C++ question and I will do my best to answer.
+Can you help me with C++?|Yes! I can answer questions about C++ basics, OOP, pointers, STL, templates, and more.
+Can you help me with my assignment?|I can explain C++ concepts to help you understand your assignment, but you should write your own solution.
+I need help.|Sure, type help to see commands or ask me any C++ question.
+Help me.|Type help to see the available commands, or ask me a C++ question directly.
+Hello|Hello! I am Shahane Bot. Ask me anything about C++.
+Hello Shahane Bot|Hello! How can I help you with C++ today?
+Hi|Hi there! I am Shahane Bot. Ask me a C++ question.
+Hi Shahane Bot|Hi! Ready to answer your C++ questions.
+Hey|Hey! What would you like to know about C++?
+Hey bot|Hey! I am Shahane Bot. Ask away.
+Hey there|Hey there! Ask me anything about C++.
+Hii|Hi! I am Shahane Bot. How can I help?
+Hola|Hola! I am Shahane Bot. Ask me a C++ question.
+Namaste|Namaste! I am Shahane Bot. Ask me about C++.
+Good morning|Good morning! Ready to learn some C++ today?
+Good afternoon|Good afternoon! What C++ topic can I help you with?
+Good evening|Good evening! Ask me any C++ question.
+Good night|Good night! Keep practicing C++ tomorrow.
+Greetings|Greetings! I am Shahane Bot. Ask me about C++.
+Howdy|Howdy! Ask me anything about C++.
+Sup|Hey! Ask me a C++ question.
+What's up?|I am ready to answer C++ questions. What would you like to know?
+Whats up|I am ready to answer your C++ questions.
+How are you?|I am running fine, thank you! How can I help you with C++?
+How are you doing?|I am doing great! Ask me a C++ question.
+How is it going?|All good here. What C++ topic do you want to explore?
+How do you do?|I am doing well, thanks! How can I help?
+Are you okay?|Yes, I am running smoothly. Ask me anything about C++.
+Are you there?|Yes, I am here. Ask me a C++ question.
+Are you working?|Yes, I am working. Go ahead and ask me something about C++.
+Thank you|You are welcome! Happy coding.
+Thanks|You are welcome! Ask me more anytime.
+Thanks a lot|Happy to help! Keep coding.
+Thank you so much|My pleasure! Good luck with C++.
+Thx|No problem!
+Ok|Alright! Ask me another C++ question whenever you like.
+Okay|Okay! Feel free to ask more.
+Cool|Glad you think so! Ask me more about C++.
+Nice|Thank you! Anything else about C++?
+Great|Awesome! What else would you like to know?
+Good|Glad to hear it! Ask me anything else.
+Awesome|Thanks! Ask me another question.
+Wow|Glad you like it! Want to learn more C++?
+Bye|Goodbye! Have a great day.
+Goodbye|Goodbye! Happy coding.
+See you|See you later! Keep practicing C++.
+See you later|See you later! Keep coding.
+Take care|You too! Happy coding.
+Tell me a joke.|Why do programmers prefer dark mode? Because light attracts bugs!
+Tell me a programming joke.|Why did the C++ programmer get stuck in the shower? The shampoo bottle said lather, rinse, repeat, which is an infinite loop.
+Say something funny.|There are 10 kinds of people: those who understand binary and those who do not.
+Do you know any jokes?|Yes! A SQL query walks into a bar, sees two tables, and asks: can I join you?
+What is the meaning of life?|In C++, the meaning of life is 42, stored in an int.
+What is your favorite language?|C++ of course, since I am written in it!
+What is your favorite color?|I like the color of a successful compile: green with no errors.
+What time is it?|I cannot check the clock, but it is always a good time to learn C++.
+What is the weather today?|I cannot check the weather. I only answer C++ questions.
+Can you speak other languages?|I only understand English keywords in my database, plus a little C++.
+Can you code?|I can explain C++ concepts and show basic syntax, but I cannot write full programs.
+Can you write code for me?|I mainly explain C++ concepts. Writing your own code is the best way to learn.
+Can you learn?|I do not learn on my own, but you can add more questions to my database file to make me smarter.
+How can I make you smarter?|Add more question and answer lines to qa_database.txt using the format question|answer.
+How can I add questions?|Open qa_database.txt and add a new line in the format: question|answer.
+What is the format of your database?|Each line is written as question|answer, with a single pipe character separating them.
+What commands do you support?|I support help, list, quit, and exit. Anything else is treated as a question.
+What commands are available?|Available commands are help, list, quit, and exit.
+How do I exit?|Type quit or exit to close the bot.
+How do I quit?|Type quit or exit to close the bot.
+How do I see all questions?|Type list to display all stored questions.
+Show all questions.|Type list to see every question stored in my database.
+How do I use you?|Just type a C++ question and press Enter. Use help to see commands.
+How to use Shahane Bot?|Type a C++ question and press Enter. Type help for commands and quit to exit.
+I don't understand.|Try asking in a simpler way, such as what is a class in C++.
+I am confused.|No worries! Ask me a specific C++ question and I will explain it.
+You are wrong.|I am sorry about that. My database may be limited. Try rephrasing your question.
+You are great.|Thank you! I am happy to help.
+You are smart.|Thanks! I try my best with my database.
+You are stupid.|I am sorry I could not help. Try rephrasing your question or check the database with list.
+I love you.|That is kind! I am just a program, but I love C++ too.
+I am bored.|Let us learn some C++! Ask me about pointers, classes, or templates.
+I am a student.|Great! I can help you learn C++ for your studies.
+I am a beginner.|Welcome! Start with what is C++, what is a variable, and what are data types.
+I am new to C++.|Welcome to C++! Start by asking what is C++, what is a variable, or what is the main function.
+How to learn C++?|Start with syntax, variables, loops, functions, then classes, pointers, and the STL. Practice by writing small programs every day.
+How can I learn C++ fast?|Practice daily, build small projects, read error messages carefully, and learn concepts in order: basics, functions, OOP, pointers, STL.
+Is C++ hard to learn?|C++ has a steep learning curve because of pointers and memory management, but regular practice makes it manageable.
+Is C++ easy?|C++ is powerful but takes practice, especially for pointers, memory, and templates.
+Why should I learn C++?|C++ is fast, widely used in games, systems, embedded software, and competitive programming, and it teaches how computers work.
+Why is C++ popular?|C++ is popular for its speed, control over hardware, object-oriented features, and huge ecosystem.
+Where is C++ used?|C++ is used in game engines, operating systems, browsers, databases, embedded systems, finance, and high-performance applications.
+What are the uses of C++?|C++ is used for system software, games, desktop applications, embedded devices, compilers, and real-time systems.
+What are the applications of C++?|Applications of C++ include game development, operating systems, browsers, databases, embedded firmware, and simulations.
+Who invented C++?|C++ was created by Bjarne Stroustrup.
+Who created C++?|C++ was created by Bjarne Stroustrup at Bell Labs.
+Who is the father of C++?|Bjarne Stroustrup is known as the father of C++.
+When was C++ created?|C++ was developed starting in 1979 and first named C with Classes. It was renamed C++ in 1983.
+What was C++ originally called?|C++ was originally called C with Classes.
+Why is it called C++?|The name C++ comes from the increment operator ++, suggesting an improved version of C.
+What are the features of C++?|Features of C++ include object-oriented programming, templates, operator overloading, STL, exception handling, and low-level memory control.
+What are the advantages of C++?|C++ offers high performance, object-oriented design, portability, a rich library, and fine control over memory.
+What are the disadvantages of C++?|C++ can be complex, has manual memory management risks, and has no built-in garbage collection.
+What are the characteristics of C++?|C++ is compiled, statically typed, supports multiple paradigms, and is fast and portable.
+Is C++ object oriented?|Yes, C++ supports object-oriented programming along with procedural and generic programming.
+Is C++ a pure object oriented language?|No, C++ is not purely object oriented because you can write programs without classes, such as procedural code with functions.
+Is C++ case sensitive?|Yes, C++ is case sensitive, so Total and total are different identifiers.
+Is C++ a compiled language?|Yes, C++ source code is compiled into machine code by a compiler.
+Is C++ platform independent?|C++ source code is portable, but the compiled executable is platform dependent.
+Is C++ statically typed?|Yes, C++ is statically typed, so variable types are known at compile time.
+Is C++ better than C?|C++ adds object-oriented programming and many features on top of C, so it is often more suitable for large applications.
+What is the difference between C and C++?|C is procedural, while C++ supports procedural, object-oriented, and generic programming. C++ also adds classes, references, templates, and exception handling.
+Difference between C and C++|C is a procedural language, while C++ supports classes, objects, inheritance, polymorphism, templates, and the STL.
+C vs C++|C is procedural and simpler, while C++ is multi-paradigm with object-oriented features.
+What is the difference between C++ and Java?|C++ is compiled to machine code and allows manual memory management and pointers, while Java runs on a virtual machine with garbage collection.
+Difference between C++ and Python|C++ is compiled, statically typed, and fast, while Python is interpreted, dynamically typed, and easier to write.
+Which compiler is used for C++?|Common C++ compilers include GCC g++, Clang, and Microsoft Visual C++.
+What is a compiler?|A compiler is a program that translates source code into machine code that the computer can execute.
+What is an interpreter?|An interpreter executes source code line by line without producing a separate machine code file.
+What is the difference between compiler and interpreter?|A compiler translates the whole program before execution, while an interpreter translates and runs code line by line.
+What is an IDE?|An IDE is an Integrated Development Environment that combines an editor, compiler, and debugger, such as Code::Blocks or Visual Studio.
+What is g++?|g++ is the GNU C++ compiler used to compile C++ programs from the command line.
+How do I compile a C++ program?|Use a compiler command such as g++ program.cpp -o program, then run the produced executable.
+How do I run a C++ program?|Compile the source file with a compiler like g++, then run the generated executable.
+How to compile C++ code?|Run g++ yourfile.cpp -o yourfile in the terminal to compile it.
+What is source code?|Source code is the human-readable text of a program written by a programmer.
+What is object code?|Object code is the machine-level output produced by a compiler before linking.
+What is a linker?|A linker combines object files and libraries into a single executable program.
+What is a preprocessor?|The preprocessor processes directives such as #include and #define before compilation begins.
+What is a preprocessor directive?|A preprocessor directive is an instruction that starts with # and is processed before compilation, such as #include and #define.
+What is the use of #include?|The #include directive inserts the contents of a header file into your source file.
+What is #define in C++?|#define creates a macro or symbolic constant that the preprocessor replaces in the code.
+What is a macro in C++?|A macro is a named piece of code defined with #define that the preprocessor substitutes before compilation.
+What is the difference between macro and inline function?|A macro is text substitution by the preprocessor without type checking, while an inline function is type checked and handled by the compiler.
+What is iostream?|iostream is a standard header that provides input and output stream objects like cin and cout.
+What is cin in C++?|cin is the standard input stream object used to read data from the keyboard.
+What is cout in C++?|cout is the standard output stream object used to print data to the screen.
+What is cerr in C++?|cerr is the standard error stream used to display error messages without buffering.
+What is endl in C++?|endl inserts a newline and flushes the output buffer.
+What is the difference between endl and n?|endl inserts a newline and flushes the stream, while the newline character only inserts a newline and is usually faster.
+What is the insertion operator?|The insertion operator << sends data to an output stream such as cout.
+What is the extraction operator?|The extraction operator >> reads data from an input stream such as cin.
+What does using namespace std mean?|It lets you use names from the std namespace, like cout and string, without writing the std:: prefix.
+What is std in C++?|std is the standard namespace that contains the C++ standard library components.
+What is a statement in C++?|A statement is a complete instruction that performs an action and usually ends with a semicolon.
+What is a comment in C++?|A comment is text ignored by the compiler used to explain code. Use // for single line and /* */ for multiple lines.
+What are the types of comments in C++?|C++ has single-line comments using // and multi-line comments using /* ... */.
+What is a literal in C++?|A literal is a fixed value written directly in code, such as 10, 3.14, or 'A'.
+What is an operator in C++?|An operator is a symbol that performs an operation on one or more operands.
+What are the types of operators in C++?|Types include arithmetic, relational, logical, bitwise, assignment, unary, ternary, and scope operators.
+What are arithmetic operators?|Arithmetic operators perform math operations: +, -, *, /, and %.
+What are relational operators?|Relational operators compare values: ==, !=, <, >, <=, and >=.
+What are logical operators?|Logical operators combine conditions: && for AND, || for OR, and ! for NOT.
+What are bitwise operators?|Bitwise operators work on bits: &, |, ^, ~, <<, and >>.
+What are assignment operators?|Assignment operators store values in variables, such as =, +=, -=, *=, /=, and %=.
+What are unary operators?|Unary operators act on a single operand, such as ++, --, !, and unary minus.
+What is the ternary operator?|The ternary operator ?: is a shorthand for if-else: condition ? valueIfTrue : valueIfFalse.
+What is the conditional operator?|The conditional operator ?: chooses between two values based on a condition.
+What is the modulus operator?|The modulus operator % returns the remainder after integer division.
+What is the sizeof operator?|The sizeof operator returns the size in bytes of a type or object.
+What is operator precedence?|Operator precedence defines the order in which operators are evaluated in an expression.
+What is associativity?|Associativity defines the direction, left to right or right to left, in which operators of the same precedence are evaluated.
+What is the difference between pre-increment and post-increment?|Pre-increment increases the value first and then uses it, while post-increment uses the value first and then increases it.
+What is increment operator?|The increment operator ++ increases the value of a variable by one.
+What is decrement operator?|The decrement operator -- decreases the value of a variable by one.
+What is type casting in C++?|Type casting converts a value from one data type to another.
+What is implicit type conversion?|Implicit type conversion is done automatically by the compiler when types differ in an expression.
+What is explicit type conversion?|Explicit type conversion is done by the programmer using casts like static_cast or C-style casts.
+What is static_cast?|static_cast performs compile-time checked conversions between related types.
+What is dynamic_cast?|dynamic_cast safely converts pointers or references in a class hierarchy at runtime and works with polymorphic types.
+What is const_cast?|const_cast adds or removes the const qualifier from a variable.
+What is reinterpret_cast?|reinterpret_cast converts one pointer type to another by reinterpreting the bit pattern, and it is unsafe.
+What are the types of casting in C++?|C++ has static_cast, dynamic_cast, const_cast, reinterpret_cast, and C-style casting.
+What is int in C++?|int is a basic data type used to store whole numbers.
+What is float in C++?|float is a data type used to store single-precision decimal numbers.
+What is double in C++?|double is a data type used to store double-precision decimal numbers with greater accuracy than float.
+What is char in C++?|char is a data type that stores a single character, such as 'A'.
+What is bool in C++?|bool is a data type that stores true or false values.
+What is void in C++?|void is a type that represents no value, used for functions that return nothing and for generic pointers.
+What is a void pointer?|A void pointer can store the address of any data type but must be cast before dereferencing.
+What is the difference between float and double?|double has about twice the precision of float and uses more memory.
+What is the size of int in C++?|On most modern systems, int is 4 bytes, but the size depends on the platform.
+What is the size of char in C++?|The size of char is always 1 byte.
+What is the size of float in C++?|float is typically 4 bytes.
+What is the size of double in C++?|double is typically 8 bytes.
+What is the size of bool in C++?|bool is typically 1 byte.
+What is long in C++?|long is an integer type that can store larger values than int.
+What is short in C++?|short is an integer type that uses less memory than int.
+What is unsigned int?|unsigned int is an integer type that stores only non-negative values.
+What is auto in C++?|The auto keyword lets the compiler deduce the type of a variable from its initializer.
+What is decltype in C++?|decltype yields the type of an expression at compile time.
+What is typedef in C++?|typedef creates an alias name for an existing data type.
+What is the using keyword in C++?|The using keyword creates type aliases and brings names from namespaces into scope.
+What is an enum in C++?|An enum is a user-defined type that consists of a set of named integer constants.
+What is enum class?|enum class is a scoped, strongly typed enumeration that does not implicitly convert to int.
+What is a union in C++?|A union is a user-defined type in which all members share the same memory location.
+What is the difference between struct and union?|In a struct each member has its own memory, while in a union all members share the same memory.
+What is a structure in C++?|A structure is a user-defined type that groups variables of different types under one name.
+What is a global variable?|A global variable is declared outside all functions and can be accessed throughout the program.
+What is a local variable?|A local variable is declared inside a function or block and is accessible only there.
+What is the difference between local and global variables?|Local variables exist only within their function or block, while global variables are accessible across the whole program.
+What is variable scope?|Scope is the region of a program where a variable can be accessed.
+What are the types of scope in C++?|C++ has local, global, namespace, class, and function prototype scope.
+What is variable lifetime?|Lifetime is the period during which a variable exists in memory.
+What are storage classes in C++?|Storage classes define the scope, lifetime, and visibility of variables: auto, static, extern, register, and mutable.
+What is the static keyword?|The static keyword makes a variable keep its value between calls or makes a class member shared by all objects.
+What is a static variable?|A static variable keeps its value throughout the program lifetime and is initialized only once.
+What is extern in C++?|The extern keyword declares a variable or function that is defined in another file.
+What is register in C++?|register suggests that a variable be stored in a CPU register for faster access.
+What is the mutable keyword?|The mutable keyword allows a data member to be modified even inside a const member function.
+What is volatile in C++?|volatile tells the compiler a variable may change unexpectedly, so it must not optimize accesses away.
+What is constexpr?|constexpr declares that a value or function can be evaluated at compile time.
+What is the difference between const and constexpr?|const means a value cannot change after initialization, while constexpr requires the value to be computable at compile time.
+What is a constant variable?|A constant variable is declared with const and its value cannot be changed.
+What is const pointer?|A const pointer cannot change the address it holds, declared as int * const p.
+What is pointer to const?|A pointer to const cannot change the value it points to, declared as const int * p.
+What is a const member function?|A const member function promises not to modify the object's data members.
+What is an if statement?|An if statement executes a block of code only when its condition is true.
+What is if else statement?|An if-else statement runs one block when the condition is true and another block when it is false.
+What is else if ladder?|An else-if ladder checks multiple conditions in sequence and runs the first block whose condition is true.
+What is a nested if?|A nested if is an if statement placed inside another if statement.
+What is a switch statement?|A switch statement selects one of many code blocks to execute based on the value of an expression.
+What is the purpose of default in switch?|The default case runs when no case label matches the switch expression.
+What is the use of break in switch?|break stops execution and exits the switch, preventing fall-through to the next case.
+What is fall through in switch?|Fall-through happens when a case has no break, so execution continues into the next case.
+What is a loop in C++?|A loop repeatedly executes a block of code while a condition is true.
+What are the types of loops in C++?|C++ has for, while, do-while, and range-based for loops.
+What is a for loop?|A for loop repeats code a set number of times using an initialization, condition, and update.
+What is a while loop?|A while loop repeats code as long as its condition remains true.
+What is a do while loop?|A do-while loop executes its body first and then checks the condition, so it runs at least once.
+What is a range based for loop?|A range-based for loop iterates directly over every element of a container or array.
+What is an infinite loop?|An infinite loop never ends because its condition always stays true.
+What is a nested loop?|A nested loop is a loop placed inside another loop.
+What is entry controlled loop?|An entry-controlled loop checks its condition before running the body, such as for and while.
+What is exit controlled loop?|An exit-controlled loop checks its condition after running the body, such as do-while.
+What is the continue statement?|The continue statement skips the rest of the current loop iteration and moves to the next one.
+What is the break statement?|The break statement immediately exits the nearest loop or switch.
+What is the goto statement?|goto transfers control to a labeled statement, but it is discouraged because it makes code hard to follow.
+What is the return statement?|The return statement ends a function and optionally sends a value back to the caller.
+What is a function in C++?|A function is a named block of code that performs a task and can be called from other parts of a program.
+What is function declaration?|A function declaration tells the compiler the name, return type, and parameters of a function.
+What is function definition?|A function definition contains the actual body of code of a function.
+What is the difference between declaration and definition?|A declaration introduces a name and type, while a definition provides the full implementation or allocates memory.
+What is a function call?|A function call executes a function by writing its name followed by arguments.
+What are parameters?|Parameters are variables listed in a function definition that receive values.
+What are arguments?|Arguments are the actual values passed to a function when it is called.
+What is the difference between parameters and arguments?|Parameters appear in the function definition, while arguments are the values supplied in the call.
+What is the return type of a function?|The return type specifies the type of value a function sends back, or void if it returns nothing.
+What is a default argument?|A default argument is a value given to a parameter that is used when the caller does not supply that argument.
+What is call by pointer?|Call by pointer passes the address of a variable so the function can modify the original through the pointer.
+What is the difference between call by value and call by reference?|Call by value passes a copy so the original is unchanged, while call by reference passes the original variable so changes affect it.
+What is pass by reference?|Pass by reference passes an alias of the variable so the function works on the original.
+What is pass by value?|Pass by value copies the argument into the parameter, leaving the original unchanged.
+What is function overloading?|Function overloading lets you define multiple functions with the same name but different parameter lists.
+What is operator overloading?|Operator overloading lets you define how operators like + or == work for user-defined types.
+What operators cannot be overloaded?|Operators that cannot be overloaded include ::, ., .*, ?:, and sizeof.
+What is overloading an operator?|Overloading an operator means giving it a custom meaning for a class by writing an operator function.
+What is a unary operator overloading?|Unary operator overloading defines the behavior of operators with one operand, like ++ or -, for a class.
+What is binary operator overloading?|Binary operator overloading defines the behavior of operators with two operands, like + or ==, for a class.
+What is overloading the insertion operator?|It means defining operator<< for a class so objects can be printed with cout, usually as a friend function.
+What is recursion?|Recursion is when a function calls itself until it reaches a base case.
+What is a base case?|A base case is the condition in a recursive function that stops further recursive calls.
+What is direct recursion?|Direct recursion occurs when a function calls itself directly.
+What is indirect recursion?|Indirect recursion occurs when a function calls another function that eventually calls the first one.
+What is tail recursion?|Tail recursion is when the recursive call is the last operation in a function.
+What is the difference between recursion and iteration?|Recursion repeats by calling itself, while iteration repeats using loops and usually uses less memory.
+What is stack overflow?|A stack overflow happens when too many function calls, often from infinite recursion, use up the call stack memory.
+What is the call stack?|The call stack stores function call information such as parameters, local variables, and return addresses.
+What is a factorial program in C++?|A factorial program multiplies all integers from 1 to n, using a loop or recursion such as n * factorial(n-1).
+What is Fibonacci series?|The Fibonacci series is a sequence in which each number is the sum of the previous two, starting from 0 and 1.
+What is a prime number program?|A prime number program checks whether a number greater than 1 has no divisors other than 1 and itself.
+What is a palindrome?|A palindrome is a word or number that reads the same forward and backward, like 121 or madam.
+What is an Armstrong number?|An Armstrong number equals the sum of its digits each raised to the power of the number of digits, like 153.
+How to swap two numbers in C++?|Use a temporary variable, the std::swap function, or arithmetic operations to swap two numbers.
+How to reverse a string in C++?|Use std::reverse from the algorithm header or loop from the end of the string to the beginning.
+How to find the largest of three numbers in C++?|Compare the numbers using if-else statements or the std::max function.
+How to check even or odd in C++?|Use the modulus operator: if number % 2 equals 0, it is even, otherwise it is odd.
+How to print Hello World in C++?|Include iostream and write cout << "Hello World"; inside the main function.
+What is a Hello World program?|A Hello World program is the simplest program that prints Hello World to the screen, often the first program a beginner writes.
+What is the structure of a C++ program?|A C++ program has header includes, optional namespace usage, global declarations, a main function, and other functions or classes.
+What is the basic structure of a C++ program?|It typically includes preprocessor directives, using namespace std, the main function, and statements inside it.
+What is the return type of main?|The main function returns an int, and returning 0 indicates successful execution.
+What does return 0 mean?|return 0 in main tells the operating system that the program finished successfully.
+What is an array in C++?|An array is a collection of elements of the same type stored in contiguous memory.
+What is a one dimensional array?|A one-dimensional array is a linear list of elements accessed with a single index.
+What is a two dimensional array?|A two-dimensional array stores data in rows and columns like a table or matrix.
+What is a multidimensional array?|A multidimensional array has more than one dimension, such as 2D or 3D arrays.
+What is array initialization?|Array initialization assigns values to array elements at the time of declaration, such as int a[3] = {1,2,3};.
+How to declare an array in C++?|Write the type, name, and size, for example int numbers[10];.
+How to pass an array to a function?|Pass the array name and its size, since the array decays to a pointer to its first element.
+What is the relation between array and pointer?|The name of an array acts as a pointer to its first element.
+What is array out of bounds?|Accessing an index outside the valid range of an array causes undefined behavior.
+What is array decay?|Array decay is when an array name converts to a pointer to its first element in many expressions.
+What is a C-style string?|A C-style string is a character array terminated by a null character.
+What is the string class in C++?|The std::string class provides a safe and easy way to store and manipulate text.
+What is the difference between char array and string?|A char array is a fixed-size C-style array, while std::string is a class that manages memory and offers many functions.
+What are string functions in C++?|Common std::string functions include length, size, substr, find, append, insert, erase, and compare.
+What is strlen?|strlen returns the length of a C-style string without counting the null character.
+What is strcpy?|strcpy copies one C-style string into another.
+What is strcat?|strcat appends one C-style string to the end of another.
+What is strcmp?|strcmp compares two C-style strings and returns zero if they are equal.
+What is getline in C++?|getline reads a full line of text including spaces from an input stream.
+What is the difference between cin and getline?|cin stops reading at whitespace, while getline reads the entire line including spaces.
+What is substr?|substr returns a part of a string starting at a given position with a given length.
+What is a stringstream?|A stringstream lets you treat a string like a stream to read and write formatted data.
+What is a pointer?|A pointer is a variable that holds the memory address of another variable.
+How to declare a pointer?|Write the type followed by an asterisk and the name, such as int *ptr;.
+What is the address of operator?|The address-of operator & returns the memory address of a variable.
+What is the dereference operator?|The dereference operator * accesses the value stored at the address held by a pointer.
+What is a null pointer?|A null pointer holds no valid address and is set using nullptr.
+What is nullptr?|nullptr is the C++11 keyword representing a null pointer constant.
+What is the difference between NULL and nullptr?|NULL is a macro that is usually 0, while nullptr is a typed null pointer constant that avoids ambiguity.
+What is a dangling pointer?|A dangling pointer points to memory that has already been freed or no longer exists.
+What is a wild pointer?|A wild pointer is an uninitialized pointer that points to an unknown memory location.
+What is a memory leak?|A memory leak happens when dynamically allocated memory is never freed, so it cannot be reused.
+What is pointer arithmetic?|Pointer arithmetic lets you add or subtract integers from a pointer to move through memory by element size.
+What is a pointer to pointer?|A pointer to pointer, or double pointer, stores the address of another pointer.
+What is an array of pointers?|An array of pointers is an array where each element holds an address.
+What is a pointer to a function?|A function pointer stores the address of a function so it can be called indirectly.
+What is the this pointer?|The this pointer is an implicit pointer available in member functions that points to the current object.
+What is the use of this pointer?|The this pointer is used to refer to the current object, resolve name conflicts, and return the object from member functions.
+What is the new operator?|The new operator dynamically allocates memory on the heap and returns a pointer to it.
+What is the delete operator?|The delete operator frees memory that was allocated with new.
+What is delete[] in C++?|delete[] frees an array that was allocated with new[].
+What is the difference between new and malloc?|new calls constructors and returns a typed pointer, while malloc only allocates raw memory and returns void*.
+What is the difference between delete and free?|delete calls the destructor and releases memory from new, while free only releases memory from malloc.
+What is malloc?|malloc is a C function that allocates a block of raw memory on the heap.
+What is the heap?|The heap is the memory area used for dynamic allocation that you manage manually.
+What is the stack in memory?|The stack is the memory area that stores local variables and function calls and is managed automatically.
+What is the difference between stack and heap?|The stack is fast and automatically managed for local variables, while the heap is larger and requires manual allocation and freeing.
+What is stack memory?|Stack memory stores local variables and function call data and is freed automatically when functions return.
+What is heap memory?|Heap memory is used for dynamic allocation and must be released manually unless smart pointers manage it.
+What are memory segments in C++?|A program's memory is divided into code, data, heap, and stack segments.
+What is a unique_ptr?|unique_ptr is a smart pointer with sole ownership of an object and it deletes the object automatically.
+What is a shared_ptr?|shared_ptr is a smart pointer that allows multiple owners and frees the object when the last owner is gone.
+What is a weak_ptr?|weak_ptr is a non-owning smart pointer that observes a shared_ptr without increasing its reference count.
+What is make_unique?|make_unique creates an object and wraps it in a unique_ptr safely.
+What is make_shared?|make_shared creates an object and wraps it in a shared_ptr efficiently.
+What is RAII?|RAII stands for Resource Acquisition Is Initialization, where resources are acquired in constructors and released in destructors.
+What is a reference variable?|A reference variable is an alias for another variable declared using the & symbol.
+What is an rvalue reference?|An rvalue reference, declared with &&, binds to temporary objects and enables move semantics.
+What is an lvalue?|An lvalue is an expression that refers to a memory location and can appear on the left of an assignment.
+What is an rvalue?|An rvalue is a temporary value that usually cannot appear on the left side of an assignment.
+What is the difference between lvalue and rvalue?|An lvalue has a persistent address, while an rvalue is a temporary value without a persistent address.
+What is move semantics?|Move semantics lets resources be transferred from one object to another instead of copied, improving performance.
+What is a move constructor?|A move constructor transfers resources from a temporary object to a new object without copying.
+What is a move assignment operator?|A move assignment operator transfers resources from one existing object to another.
+What is std::move?|std::move casts an object to an rvalue so its resources can be moved.
+What is perfect forwarding?|Perfect forwarding passes arguments to another function while preserving their value category using std::forward.
+What is OOP?|OOP, or Object-Oriented Programming, organizes software around objects that combine data and behavior.
+What are the features of OOP?|Features of OOP include encapsulation, inheritance, polymorphism, abstraction, classes, and objects.
+What are the pillars of OOP?|The four pillars of OOP are encapsulation, abstraction, inheritance, and polymorphism.
+What are the four pillars of object oriented programming?|They are encapsulation, abstraction, inheritance, and polymorphism.
+What are the advantages of OOP?|OOP offers code reusability, modularity, data security, easier maintenance, and real-world modeling.
+What is abstraction in C++?|Abstraction hides complex implementation details and shows only the essential features to the user.
+How is abstraction achieved in C++?|Abstraction is achieved using classes, access specifiers, abstract classes, and interfaces made of pure virtual functions.
+What is data hiding?|Data hiding restricts direct access to class data by making it private and exposing it via public functions.
+What is data abstraction?|Data abstraction shows only necessary information to the user and hides internal details.
+What is the difference between abstraction and encapsulation?|Abstraction hides complexity by showing only essentials, while encapsulation bundles data and methods and restricts access.
+What is a data member?|A data member is a variable declared inside a class.
+What is a member function?|A member function is a function declared inside a class that operates on its data.
+What are access specifiers?|Access specifiers control visibility of class members: public, private, and protected.
+What is the public access specifier?|Public members can be accessed from anywhere the object is accessible.
+What is the private access specifier?|Private members can be accessed only inside the class and by friends.
+What is the protected access specifier?|Protected members can be accessed inside the class, by friends, and by derived classes.
+What is the difference between private and protected?|Private members are not accessible to derived classes, while protected members are.
+What is the default access specifier in a class?|The default access specifier in a class is private.
+What is the default access specifier in a struct?|The default access specifier in a struct is public.
+How to create an object in C++?|Declare a variable of the class type, such as MyClass obj;, or allocate it dynamically with new.
+How to access class members?|Use the dot operator with an object or the arrow operator with a pointer to an object.
+What is the dot operator?|The dot operator . accesses members of an object.
+What is the arrow operator?|The arrow operator -> accesses members of an object through a pointer.
+What is a getter?|A getter is a member function that returns the value of a private data member.
+What is a setter?|A setter is a member function that sets or updates the value of a private data member.
+What are getters and setters?|Getters and setters are public member functions used to read and modify private data members safely.
+What is a nested class?|A nested class is a class defined inside another class.
+What is a local class?|A local class is a class defined inside a function.
+What is an empty class?|An empty class has no data members or functions, but its object still has a size of at least one byte.
+What is the size of an empty class?|An empty class has size 1 byte so that its objects have unique addresses.
+What is an anonymous object?|An anonymous object is a temporary object created without a name.
+What is an array of objects?|An array of objects is a collection of multiple objects of the same class.
+What is a constructor initializer list?|An initializer list initializes data members before the constructor body runs, written after a colon.
+Why use initializer list in constructor?|It is needed for const members, reference members, and base classes, and it can be more efficient.
+What is constructor overloading?|Constructor overloading means having multiple constructors with different parameters in the same class.
+What is a delegating constructor?|A delegating constructor calls another constructor of the same class to avoid repeated code.
+What is an explicit constructor?|An explicit constructor prevents the compiler from using it for implicit conversions.
+What is the explicit keyword?|The explicit keyword prevents unintended implicit conversions through single-argument constructors.
+What is a conversion constructor?|A conversion constructor takes a single argument and converts that type into the class type.
+What is a copy assignment operator?|The copy assignment operator copies the contents of one existing object into another existing object.
+What is the difference between copy constructor and assignment operator?|A copy constructor creates a new object from an existing one, while the assignment operator copies into an already existing object.
+What is shallow copy?|A shallow copy copies pointer values so both objects share the same memory.
+What is deep copy?|A deep copy allocates new memory and copies the actual data, so objects do not share memory.
+What is the difference between shallow copy and deep copy?|Shallow copy shares pointed memory between objects, while deep copy creates a separate copy of the data.
+What is the rule of three?|The rule of three says that if a class needs a destructor, copy constructor, or copy assignment operator, it likely needs all three.
+What is the rule of five?|The rule of five extends the rule of three by adding the move constructor and move assignment operator.
+What is the rule of zero?|The rule of zero says classes should avoid managing resources directly so no special member functions need to be written.
+What is a default destructor?|A default destructor is generated by the compiler when you do not define one.
+What is a virtual destructor?|A virtual destructor ensures the derived class destructor runs when deleting an object through a base class pointer.
+Why do we need a virtual destructor?|Without it, deleting a derived object through a base pointer causes undefined behavior and may leak resources.
+Can a constructor be virtual?|No, a constructor cannot be virtual.
+Can a destructor be virtual?|Yes, and it should be virtual in base classes meant for polymorphism.
+Can a constructor be private?|Yes, private constructors are used in patterns like singleton.
+What is a singleton class?|A singleton class allows only one object to be created, usually using a private constructor and a static accessor.
+What is a static data member?|A static data member is a class variable shared by all objects of the class.
+What is a static member function?|A static member function belongs to the class and can be called without creating an object.
+What is the this keyword?|The this keyword is a pointer to the current object inside a member function.
+What is a friend class?|A friend class can access the private and protected members of the class that declares it as a friend.
+What is the friend keyword?|The friend keyword grants a function or class access to private and protected members.
+What are the advantages of friend functions?|Friend functions allow external functions to access private data, which is useful for operator overloading.
+What are the disadvantages of friend functions?|Friend functions break encapsulation because they can access private data of a class.
+What is inheritance?|Inheritance lets a class derive properties and behavior from another class to promote reuse.
+What is a base class?|A base class is the parent class whose members are inherited by other classes.
+What is a derived class?|A derived class inherits from a base class and can add or override members.
+What is a parent class?|A parent class is another name for a base class.
+What is a child class?|A child class is another name for a derived class.
+What are the types of inheritance?|Types include single, multiple, multilevel, hierarchical, and hybrid inheritance.
+What is single inheritance?|Single inheritance means a derived class inherits from only one base class.
+What is multiple inheritance?|Multiple inheritance means a derived class inherits from more than one base class.
+What is multilevel inheritance?|Multilevel inheritance is a chain where a class derives from a derived class.
+What is hierarchical inheritance?|Hierarchical inheritance is when multiple classes derive from the same base class.
+What is hybrid inheritance?|Hybrid inheritance is a combination of two or more types of inheritance.
+What is the diamond problem?|The diamond problem occurs in multiple inheritance when a class inherits the same base class through two paths, causing ambiguity.
+How to solve the diamond problem?|Use virtual inheritance so only one shared copy of the base class exists.
+What is virtual inheritance?|Virtual inheritance ensures that only one instance of a common base class is inherited in multiple inheritance.
+What is the syntax of inheritance in C++?|Use class Derived : public Base { };
+What are the modes of inheritance?|The modes are public, protected, and private inheritance.
+What is public inheritance?|In public inheritance, public base members stay public and protected members stay protected in the derived class.
+What is protected inheritance?|In protected inheritance, public and protected base members become protected in the derived class.
+What is private inheritance?|In private inheritance, public and protected base members become private in the derived class.
+What is the advantage of inheritance?|Inheritance promotes code reuse, extensibility, and a logical class hierarchy.
+What is the order of constructor calls in inheritance?|Base class constructors run first, followed by derived class constructors.
+What is the order of destructor calls in inheritance?|Derived class destructors run first, followed by base class destructors.
+Are constructors inherited?|No, constructors are not inherited, but a derived class constructor can call the base constructor.
+Are private members inherited?|Private members exist in the derived object but are not directly accessible by the derived class.
+What is method hiding?|Method hiding happens when a derived class function with the same name hides base class functions of that name.
+What is the difference between overloading and overriding?|Overloading uses the same function name with different parameters in the same scope, while overriding redefines a virtual function in a derived class.
+What is the difference between function overloading and overriding?|Overloading is compile-time polymorphism with different signatures, while overriding is runtime polymorphism with the same signature.
+What is the override keyword?|The override keyword tells the compiler a function is meant to override a virtual function and checks for mistakes.
+What is the final keyword?|The final keyword prevents a virtual function from being overridden or a class from being inherited.
+What are the types of polymorphism?|The types are compile-time polymorphism, such as overloading, and runtime polymorphism, such as virtual functions.
+What is compile time polymorphism?|Compile-time polymorphism is resolved by the compiler, using function overloading, operator overloading, and templates.
+What is runtime polymorphism?|Runtime polymorphism is resolved during execution using virtual functions and base class pointers or references.
+What is static binding?|Static binding resolves function calls at compile time.
+What is dynamic binding?|Dynamic binding resolves function calls at runtime based on the actual object type.
+What is early binding?|Early binding is another name for static binding done at compile time.
+What is late binding?|Late binding is another name for dynamic binding done at runtime.
+What is a vtable?|A vtable is a table of function pointers that the compiler creates for classes with virtual functions to enable dynamic dispatch.
+What is a vptr?|A vptr is a hidden pointer in each object that points to the class vtable.
+What is an interface in C++?|An interface is a class that has only pure virtual functions and no data, defining a contract for derived classes.
+What is the difference between abstract class and interface?|An abstract class can have data and implemented functions, while an interface in C++ conventionally has only pure virtual functions.
+Can we create an object of an abstract class?|No, an abstract class cannot be instantiated, but pointers or references to it are allowed.
+Can a pure virtual function have a body?|Yes, a pure virtual function can have a definition outside the class, but the class remains abstract.
+What is object slicing?|Object slicing happens when a derived object is assigned to a base object by value, losing the derived part.
+What is a generic function?|A generic function works with any data type, created using templates.
+What is a function template?|A function template defines a function that works with different data types using a type parameter.
+What is a class template?|A class template defines a class that can operate on any data type given as a template parameter.
+What is the syntax of a template?|Write template <typename T> before a function or class, where T is the type placeholder.
+What is template specialization?|Template specialization provides a custom implementation of a template for a specific type.
+What is a template parameter?|A template parameter is a placeholder for a type or value in a template definition.
+What is the difference between typename and class in templates?|In template parameter declarations, typename and class are interchangeable.
+What is a variadic template?|A variadic template accepts any number of template arguments.
+What are the advantages of templates?|Templates provide code reuse, type safety, and generic programming.
+What is generic programming?|Generic programming writes code that works with any data type, mainly through templates.
+What is a concept in C++20?|A concept is a named constraint on template parameters introduced in C++20.
+What is the STL?|The STL, or Standard Template Library, offers containers, iterators, algorithms, and function objects.
+What are the components of STL?|The main components of STL are containers, algorithms, iterators, and function objects.
+What is a container in STL?|A container is a data structure that stores a collection of objects, like vector, list, or map.
+What are the types of containers in STL?|STL containers are sequence containers, associative containers, unordered containers, and container adapters.
+What are sequence containers?|Sequence containers store elements in order, such as vector, list, deque, and array.
+What are associative containers?|Associative containers store sorted key-based data, such as set, map, multiset, and multimap.
+What are unordered containers?|Unordered containers use hashing for fast lookup, such as unordered_set and unordered_map.
+What are container adapters?|Container adapters provide restricted interfaces over other containers, such as stack, queue, and priority_queue.
+What is an iterator?|An iterator is an object that points to an element in a container and lets you traverse the container.
+What are the types of iterators?|Types include input, output, forward, bidirectional, and random access iterators.
+What is begin and end in STL?|begin returns an iterator to the first element and end returns an iterator just past the last element.
+What is an algorithm in STL?|STL algorithms are ready-made functions like sort, find, and reverse that work on containers.
+What is std::sort?|std::sort sorts elements in a range in ascending order by default.
+What is std::find?|std::find searches for a value in a range and returns an iterator to it.
+What is std::reverse?|std::reverse reverses the order of elements in a range.
+What is std::max?|std::max returns the larger of two values.
+What is std::min?|std::min returns the smaller of two values.
+What is std::swap?|std::swap exchanges the values of two variables.
+What is std::accumulate?|std::accumulate sums up or combines the elements of a range.
+What is std::count?|std::count counts how many elements in a range equal a given value.
+What is std::binary_search?|std::binary_search checks whether a value exists in a sorted range.
+What is a function object?|A function object, or functor, is an object that can be called like a function by overloading operator().
+What is a functor?|A functor is a class that overloads the function call operator so it behaves like a function.
+What is a vector in STL?|A vector is a dynamic array that grows automatically and stores elements contiguously.
+How to declare a vector?|Include the vector header and write vector<int> v;
+What is push_back?|push_back adds an element to the end of a vector.
+What is pop_back?|pop_back removes the last element of a vector.
+What is the size function in vector?|size returns the number of elements in a vector.
+What is capacity in vector?|Capacity is the number of elements a vector can hold before it must allocate more memory.
+What is the difference between size and capacity?|Size is the current number of elements, while capacity is the allocated storage space.
+What is emplace_back?|emplace_back constructs an element directly at the end of a vector without extra copying.
+What is the difference between push_back and emplace_back?|push_back copies or moves an existing object, while emplace_back constructs the object in place.
+What is a list in STL?|A list is a doubly linked list container that allows fast insertion and deletion anywhere.
+What is a deque?|A deque is a double-ended queue that allows fast insertion and removal at both ends.
+What is a stack in STL?|A stack is a LIFO container adapter where the last element added is the first removed.
+What is a queue in STL?|A queue is a FIFO container adapter where the first element added is the first removed.
+What is a priority queue?|A priority_queue is a container adapter that always gives access to the largest element by default.
+What is a set in STL?|A set stores unique elements in sorted order.
+What is a multiset?|A multiset is like a set but allows duplicate elements.
+What is a map in STL?|A map stores key-value pairs in sorted order of keys with unique keys.
+What is a multimap?|A multimap is a map that allows duplicate keys.
+What is an unordered_map?|An unordered_map stores key-value pairs using a hash table for average constant-time lookup.
+What is an unordered_set?|An unordered_set stores unique elements using hashing without any order.
+What is the difference between map and unordered_map?|map keeps keys sorted with logarithmic operations, while unordered_map uses hashing for average constant-time operations.
+What is a pair in C++?|A pair is a template that stores two values together, accessed via first and second.
+What is a tuple in C++?|A tuple stores a fixed number of values of possibly different types.
+What is std::array?|std::array is a fixed-size container that wraps a C-style array with a safer interface.
+What is a bitset?|A bitset stores a fixed number of bits and provides bit manipulation functions.
+What is std::optional?|std::optional represents a value that may or may not be present.
+What is std::variant?|std::variant is a type-safe union that holds one value from several possible types.
+What is std::function?|std::function is a wrapper that can store any callable object such as functions or lambdas.
+What is std::string_view?|std::string_view is a lightweight non-owning view of a string.
+What is a lambda function?|A lambda function is an anonymous function defined inline using the [] syntax.
+What is the syntax of a lambda expression?|The syntax is [capture](parameters) { body }.
+What is a capture clause in lambda?|The capture clause specifies which outside variables a lambda can use and whether by value or by reference.
+What are exceptions in C++?|Exceptions are runtime errors handled using try, catch, and throw.
+What is exception handling?|Exception handling is a mechanism to detect and handle runtime errors without crashing the program.
+What is try catch in C++?|Code that may fail goes in a try block and errors are handled in catch blocks.
+What is a multiple catch block?|Multiple catch blocks let you handle different exception types separately after a single try block.
+What is a catch all handler?|A catch-all handler written as catch(...) catches any type of exception.
+What is rethrowing an exception?|Rethrowing uses throw; inside a catch block to pass the same exception to an outer handler.
+What is a user defined exception?|A user-defined exception is a custom class created to represent a specific error, often derived from std::exception.
+What is std::exception?|std::exception is the base class of all standard C++ exceptions.
+What is the what function?|The what function of std::exception returns a message describing the error.
+What is noexcept?|noexcept specifies that a function does not throw exceptions.
+What is stack unwinding?|Stack unwinding is the process of destroying local objects as the program searches for an exception handler.
+What is an assertion?|An assertion checks a condition during debugging and stops the program if it is false.
+What is a file in C++?|A file is a collection of data stored on disk that a program can read from or write to.
+What is file handling in C++?|File handling lets a program create, read, write, and close files using stream classes.
+What are the file stream classes?|The classes are ifstream for input, ofstream for output, and fstream for both.
+What is ifstream?|ifstream is a stream class used to read data from files.
+What is ofstream?|ofstream is a stream class used to write data to files.
+What is fstream?|fstream is a stream class that can both read from and write to files.
+How to open a file in C++?|Create a stream object and call open with the file name or pass the file name to its constructor.
+How to read a file in C++?|Open the file using ifstream and read with >> or getline in a loop.
+How to write to a file in C++?|Open the file using ofstream and write with the << operator.
+How to close a file in C++?|Call the close function on the file stream object.
+What are file opening modes?|Modes include ios::in, ios::out, ios::app, ios::ate, ios::trunc, and ios::binary.
+What is ios::app?|ios::app opens a file for appending so new data is added at the end.
+What is ios::binary?|ios::binary opens a file in binary mode instead of text mode.
+What is eof in C++?|eof checks whether the end of a file has been reached.
+What is the is_open function?|is_open checks whether a file stream has successfully opened a file.
+What is seekg?|seekg moves the read position in an input file stream.
+What is seekp?|seekp moves the write position in an output file stream.
+What is tellg?|tellg returns the current read position in an input stream.
+What is a text file?|A text file stores data as readable characters.
+What is a binary file?|A binary file stores data in its raw byte form, not as readable text.
+What is a stream in C++?|A stream is a sequence of bytes that flows between a program and an input or output device.
+What is the difference between ifstream and ofstream?|ifstream reads from files while ofstream writes to files.
+What is a data structure?|A data structure is a way of organizing and storing data for efficient access and modification.
+What is a linked list?|A linked list is a linear data structure where each node stores data and a pointer to the next node.
+What is a node?|A node is a basic unit of a data structure that holds data and links to other nodes.
+What is a singly linked list?|A singly linked list has nodes with data and a pointer to the next node only.
+What is a doubly linked list?|A doubly linked list has nodes with pointers to both the next and previous nodes.
+What is a circular linked list?|A circular linked list is one where the last node points back to the first node.
+What is the difference between array and linked list?|Arrays have fixed contiguous memory with fast indexing, while linked lists use dynamic nodes with fast insertion and deletion.
+What is a stack?|A stack is a LIFO data structure where insertion and removal happen at one end.
+What is a queue?|A queue is a FIFO data structure where insertion happens at the rear and removal at the front.
+What is LIFO?|LIFO means Last In First Out, as in a stack.
+What is FIFO?|FIFO means First In First Out, as in a queue.
+What is a tree?|A tree is a hierarchical data structure made of nodes connected by edges, with one root node.
+What is a binary tree?|A binary tree is a tree in which each node has at most two children.
+What is a binary search tree?|A binary search tree keeps smaller values in the left subtree and larger values in the right subtree.
+What is a graph?|A graph is a set of vertices connected by edges.
+What is a hash table?|A hash table stores key-value pairs and uses a hash function to find the position quickly.
+What is a heap data structure?|A heap is a complete binary tree where each parent is larger or smaller than its children.
+What is sorting?|Sorting arranges elements in a specific order such as ascending or descending.
+What is bubble sort?|Bubble sort repeatedly swaps adjacent elements that are in the wrong order until the list is sorted.
+What is selection sort?|Selection sort repeatedly selects the smallest element and places it at the front.
+What is insertion sort?|Insertion sort builds a sorted list by inserting each element into its correct position.
+What is merge sort?|Merge sort divides the list into halves, sorts each, and merges them back together.
+What is quick sort?|Quick sort picks a pivot and partitions the array around it, then sorts the partitions recursively.
+What is searching?|Searching is the process of finding the position of a value in a collection.
+What is linear search?|Linear search checks each element one by one until the value is found.
+What is binary search?|Binary search repeatedly halves a sorted array to find a value efficiently.
+What is time complexity?|Time complexity describes how the running time of an algorithm grows with input size.
+What is space complexity?|Space complexity describes how much memory an algorithm uses as input size grows.
+What is Big O notation?|Big O notation describes the upper bound of an algorithm's growth rate, such as O(n) or O(log n).
+What is the time complexity of binary search?|The time complexity of binary search is O(log n).
+What is the time complexity of linear search?|The time complexity of linear search is O(n).
+What is an algorithm?|An algorithm is a step-by-step procedure for solving a problem.
+What is a flowchart?|A flowchart is a diagram that shows the steps of a process using symbols and arrows.
+What is pseudocode?|Pseudocode is a plain-language description of the steps of an algorithm.
+What is a thread in C++?|A thread is the smallest unit of execution that runs independently within a program.
+What is multithreading?|Multithreading runs multiple threads at the same time to perform tasks concurrently.
+What is std::thread?|std::thread is the standard class used to create and manage threads.
+What is a mutex?|A mutex is a lock that prevents multiple threads from accessing shared data at the same time.
+What is a race condition?|A race condition occurs when threads access shared data simultaneously and the result depends on timing.
+What is a deadlock?|A deadlock occurs when threads wait for each other forever and none can proceed.
+What is std::atomic?|std::atomic provides thread-safe operations on variables without needing locks.
+What is a lock guard?|lock_guard is a wrapper that locks a mutex on creation and unlocks it automatically when destroyed.
+What is concurrency?|Concurrency is the ability of a program to handle multiple tasks at overlapping times.
+What is a namespace?|A namespace is a named scope that groups identifiers to avoid name conflicts.
+How to create a namespace?|Use the namespace keyword followed by a name and a block of declarations.
+What is an anonymous namespace?|An anonymous namespace has no name and limits its contents to the current file.
+What is a header guard?|A header guard uses #ifndef, #define, and #endif, or #pragma once, to prevent a header from being included multiple times.
+What is pragma once?|#pragma once tells the compiler to include a header file only once.
+What is a library in C++?|A library is a collection of precompiled code that programs can reuse.
+What is the standard library?|The C++ standard library is the set of classes and functions provided with the language.
+What is cmath?|cmath is a header that provides math functions such as sqrt, pow, sin, and cos.
+What is the sqrt function?|sqrt returns the square root of a number and is declared in cmath.
+What is the pow function?|pow raises a number to a given power and is declared in cmath.
+What is the abs function?|abs returns the absolute value of a number.
+What is rand in C++?|rand generates a pseudo-random integer, usually seeded using srand.
+What is srand?|srand sets the seed for the rand function.
+What is the random library in C++?|The random header provides modern random number engines and distributions.
+What is chrono?|chrono is a library for working with time and durations.
+What is iomanip?|iomanip provides manipulators like setw and setprecision for formatting output.
+What is setw?|setw sets the field width for the next output item.
+What is setprecision?|setprecision sets the number of digits displayed for floating-point values.
+What is a manipulator?|A manipulator is a function that changes the way data is input or output, like endl or setw.
+What is a bit?|A bit is the smallest unit of data, with a value of 0 or 1.
+What is a byte?|A byte is a group of 8 bits.
+What is ASCII?|ASCII is a character encoding that assigns numeric codes to letters, digits, and symbols.
+What is the ASCII value of A?|The ASCII value of uppercase A is 65.
+What is a segmentation fault?|A segmentation fault occurs when a program accesses memory it is not allowed to access.
+What is undefined behavior?|Undefined behavior is code whose result is not defined by the C++ standard, so anything may happen.
+What is a syntax error?|A syntax error is a mistake in the structure of code that breaks the language rules.
+What is a logical error?|A logical error is a mistake in program logic that produces wrong results without crashing.
+What is a runtime error?|A runtime error occurs while the program is executing, such as division by zero.
+What is a compile time error?|A compile-time error is detected by the compiler before the program runs.
+What is a linker error?|A linker error occurs when the linker cannot find the definition of a function or variable.
+What is debugging?|Debugging is the process of finding and fixing errors in a program.
+What is a debugger?|A debugger is a tool that lets you run code step by step and inspect variables, such as gdb.
+What is a warning in C++?|A warning is a compiler message about code that might be a problem but still compiles.
+What is a bug?|A bug is an error or flaw in a program that causes incorrect or unexpected behavior.
+What is a header file and source file?|A header file holds declarations, while a source file holds the implementations of functions and classes.
+What is a .cpp file?|A .cpp file is a C++ source file containing code implementations.
+What is a .h file?|A .h file is a header file containing declarations that are shared across source files.
+What is modular programming?|Modular programming divides a program into separate modules or functions to improve organization and reuse.
+What is a user defined data type?|A user-defined data type is a type created by the programmer, such as a class, struct, enum, or union.
+What is a built in data type?|Built-in data types are provided by the language, such as int, char, float, double, and bool.
+What are primitive data types?|Primitive data types are basic types like int, char, float, double, and bool.
+What is a literal constant?|A literal constant is a fixed value written directly in code, like 100 or 'x'.
+What is a symbolic constant?|A symbolic constant is a name given to a constant value using const or #define.
+What is an identifier naming rule?|Identifiers must start with a letter or underscore, contain only letters, digits, and underscores, and cannot be keywords.
+What are the rules for naming variables?|Variable names must begin with a letter or underscore, cannot contain spaces or special symbols, cannot be keywords, and are case sensitive.
+How many keywords are in C++?|C++ has around 95 keywords, and the exact number depends on the language standard.
+What is the difference between int and float?|int stores whole numbers, while float stores numbers with decimal parts.
+What is the difference between char and string?|char holds a single character, while string holds a sequence of characters.
+What is the difference between array and pointer?|An array is a block of elements with fixed size, while a pointer is a variable that holds an address and can be reassigned.
+What is the difference between while and for loop?|A for loop is used when the iteration count is known, while a while loop is used when it depends on a condition.
+What is the difference between break and return?|break exits a loop or switch, while return exits the entire function.
+What is the difference between stack and queue?|A stack is LIFO and a queue is FIFO.
+What is the difference between class and object?|A class is a blueprint, while an object is an instance created from that blueprint.
+What is the difference between structure and union?|A structure allocates separate memory for every member, while a union shares one memory location among all members.
+What is the difference between function and method?|A method is a function that belongs to a class, while a function can exist independently.
+What is the difference between local and static variable?|A local variable is destroyed when its function ends, while a static variable keeps its value between calls.
+What is the difference between public private and protected?|Public is accessible everywhere, private only inside the class, and protected inside the class and its derived classes.
+What is the difference between virtual and pure virtual function?|A virtual function has a default implementation that may be overridden, while a pure virtual function has no required implementation and makes the class abstract.
+What is the difference between constructor and destructor?|A constructor initializes an object when it is created, while a destructor cleans up when it is destroyed.
+What is the difference between inheritance and composition?|Inheritance models an is-a relationship, while composition models a has-a relationship.
+What is composition in C++?|Composition is when a class contains objects of other classes as members, showing a has-a relationship.
+What is aggregation?|Aggregation is a has-a relationship where the contained object can exist independently of the container.
+What is association in C++?|Association is a relationship where objects of one class use or are related to objects of another class.
+What is a has-a relationship?|A has-a relationship means a class contains another class, implemented through composition or aggregation.
+What is an is-a relationship?|An is-a relationship means a derived class is a type of its base class, implemented through inheritance.
+What is a design pattern?|A design pattern is a reusable solution to a common software design problem.
+What is the factory pattern?|The factory pattern creates objects without exposing the exact creation logic to the caller.
+What is the observer pattern?|The observer pattern lets objects subscribe to and get notified about changes in another object.
+What is UML?|UML, or Unified Modeling Language, is a standard way to visualize software design using diagrams.
+What is a class diagram?|A class diagram is a UML diagram showing classes, their members, and relationships.
+What is a software?|Software is a set of programs and data that tell a computer what to do.
+What is a program?|A program is a set of instructions written to perform a specific task on a computer.
+What is programming?|Programming is the process of writing instructions that a computer can execute.
+What is a programming language?|A programming language is a formal language used to write instructions for a computer.
+What is machine language?|Machine language is the binary code that a computer processor directly understands.
+What is assembly language?|Assembly language is a low-level language that uses short mnemonics to represent machine instructions.
+What is a high level language?|A high-level language is closer to human language and easier to read, such as C++, Java, and Python.
+What is a low level language?|A low-level language is close to machine code, such as assembly language.
+What is a variable declaration?|A variable declaration specifies the type and name of a variable, such as int age;.
+What is variable initialization?|Initialization assigns a value to a variable when it is declared, such as int age = 20;.
+What is the difference between declaration and initialization?|Declaration creates a variable with a type and name, while initialization gives it its first value.
+What is a garbage value?|A garbage value is an unpredictable value stored in an uninitialized variable.
+What is an uninitialized variable?|An uninitialized variable has been declared but not given a value, so it contains a garbage value.
+What is overflow in C++?|Overflow happens when a value exceeds the maximum limit that a data type can store.
+What is the maximum value of int?|On systems where int is 4 bytes, the maximum value of int is 2147483647.
+What is INT_MAX?|INT_MAX is a constant in climits representing the maximum value of an int.
+What is climits?|climits is a header that defines limits of integer types such as INT_MAX and INT_MIN.
+What is a ternary operator example?|An example is int max = (a > b) ? a : b; which stores the larger value.
+What is the scope resolution operator used for?|It accesses global variables hidden by local ones, defines member functions outside a class, and refers to namespace members.
+What is the :: operator?|The :: operator is the scope resolution operator used to access members of namespaces and classes.
+What is an inline keyword?|The inline keyword suggests that the compiler replace the function call with the function body.
+What is the advantage of inline functions?|Inline functions reduce function call overhead and can make small functions faster.
+What is the disadvantage of inline functions?|Inline functions can increase code size and are not suitable for large functions.
+What is an object oriented language?|An object-oriented language supports classes, objects, inheritance, encapsulation, and polymorphism.
+What is a message passing in OOP?|Message passing is when objects communicate by calling each other's member functions.
+What is dynamic polymorphism?|Dynamic polymorphism is another name for runtime polymorphism using virtual functions.
+What is a copy elision?|Copy elision is a compiler optimization that avoids unnecessary copying of temporary objects.
+What is a temporary object?|A temporary object is an unnamed object created during expression evaluation that is destroyed at the end of the full expression.
+What is an object lifetime?|Object lifetime is the duration from an object's creation to its destruction.
+What is the difference between new and new[]?|new allocates a single object, while new[] allocates an array of objects.
+What is a bad_alloc exception?|bad_alloc is thrown when new fails to allocate memory.
+What is the difference between ++i and i++?|++i increments before using the value, while i++ uses the value first and then increments.
+What is the difference between == and = in C++?|== compares two values for equality, while = assigns a value to a variable.
+What is the difference between & and &&?|& is the bitwise AND or address-of operator, while && is the logical AND operator.
+What is the difference between|and ||?|| is the bitwise OR operator, while || is the logical OR operator.
+What is the difference between ++ and +=1?|Both increase a value by one, but ++ is a unary operator and += 1 is a compound assignment.
+What is a sentinel value?|A sentinel value is a special value used to signal the end of input or a loop.
+What is a flag variable?|A flag variable is a boolean variable used to indicate whether a condition has occurred.
+What is a counter variable?|A counter variable is used to count how many times something happens, often in a loop.
+What is an accumulator?|An accumulator is a variable that keeps a running total, such as sum += value.
+What is the difference between a library function and a user defined function?|A library function is already provided by C++, while a user-defined function is written by the programmer.
+What are library functions?|Library functions are predefined functions provided by C++ headers, like sqrt and strlen.
+What are user defined functions?|User-defined functions are functions created by the programmer to perform specific tasks.
+What is function return by reference?|A function can return a reference to an existing object so the caller can modify the original.
+What is a recursive function?|A recursive function is a function that calls itself.
+What is a callback function?|A callback function is a function passed as an argument to be called later.
+What is a higher order function?|A higher-order function takes other functions as arguments or returns a function.
+What is a generic pointer?|A generic pointer is a void pointer that can point to any data type.
+What is a smart pointer?|A smart pointer is a class that behaves like a pointer and manages memory automatically.
+What is the difference between smart pointer and raw pointer?|A smart pointer frees memory automatically, while a raw pointer needs manual deletion.
+What is garbage collection?|Garbage collection is automatic memory cleanup. C++ does not have it by default and uses RAII and smart pointers instead.
+Does C++ have garbage collection?|No, C++ does not have built-in garbage collection, so programmers manage memory manually or use smart pointers.
+What is C++11?|C++11 is a major standard that added auto, lambdas, nullptr, smart pointers, move semantics, and range-based for loops.
+What is C++14?|C++14 is a small update to C++11 that improved generic lambdas, return type deduction, and more.
+What is C++17?|C++17 added features such as structured bindings, std::optional, std::variant, and filesystem support.
+What is C++20?|C++20 introduced concepts, ranges, coroutines, modules, and the three-way comparison operator.
+What is C++23?|C++23 is a later standard that adds features such as std::expected, std::print, and more library improvements.
+What are the versions of C++?|Major versions include C++98, C++03, C++11, C++14, C++17, C++20, and C++23.
+What is the latest version of C++?|The latest published standard is C++23, with C++26 under development.
+What is a structured binding?|A structured binding lets you unpack a pair, tuple, or struct into separate named variables.
+What are coroutines?|Coroutines are functions that can pause and resume execution, introduced in C++20.
+What are modules in C++?|Modules are a C++20 feature that replace header files with faster, cleaner imports.
+What are ranges in C++?|Ranges, added in C++20, provide a composable way to work with sequences of elements.
+What is the spaceship operator?|The spaceship operator <=> performs three-way comparison and was added in C++20.
+What is an if constexpr?|if constexpr evaluates a condition at compile time and discards the unused branch.
+What is a trailing return type?|A trailing return type specifies the return type after the parameter list using ->.
+What is uniform initialization?|Uniform initialization uses curly braces {} to initialize variables and objects consistently.
+What is initializer_list?|std::initializer_list lets a function or constructor accept a list of values in braces.
+What is the use of the explicit keyword in conversion?|It prevents the compiler from performing unwanted automatic type conversions.
+What is a default function?|A function declared with = default asks the compiler to generate the default implementation.
+What is a deleted function?|A function declared with = delete is disabled and cannot be called.
+What is the static assert?|static_assert checks a condition at compile time and gives an error if it is false.
+What is a typedef vs using?|Both create type aliases, but using is more readable and also works with templates.
+What is the use of the sizeof operator on an array?|sizeof on an array returns the total size in bytes, so dividing by the element size gives the element count.
+What is memory alignment?|Memory alignment arranges data at addresses that match its size for faster CPU access, sometimes adding padding.
+What is structure padding?|Structure padding adds unused bytes between members so each is properly aligned in memory.
+What is endianness?|Endianness is the order in which bytes of a number are stored in memory, little endian or big endian.
+What is the bit manipulation?|Bit manipulation uses bitwise operators to work directly on the binary bits of numbers.
+What is left shift operator?|The left shift operator << moves bits to the left, effectively multiplying by powers of two.
+What is right shift operator?|The right shift operator >> moves bits to the right, effectively dividing by powers of two.
+What is XOR operator?|The XOR operator ^ returns 1 when the two bits differ and 0 when they are the same.
+What is the NOT operator?|The ! operator is logical NOT, while ~ is the bitwise NOT that flips every bit.
+What are the best practices in C++?|Use meaningful names, prefer references and smart pointers, avoid raw new and delete, use const, and comment your code.
+What is clean code?|Clean code is code that is simple, readable, well organized, and easy to maintain.
+What is code reusability?|Code reusability means using existing code in multiple places to save effort, achieved with functions, classes, and templates.
+What is modularity?|Modularity is dividing a program into independent, manageable parts.
+What is maintainability?|Maintainability is how easily software can be fixed, updated, or improved.
+What is a software library versus framework?|A library is code you call, while a framework calls your code and controls the program flow.
+What is Qt?|Qt is a popular C++ framework for building graphical user interfaces and cross-platform applications.
+What is Boost?|Boost is a set of high-quality, peer-reviewed C++ libraries that often influence the standard library.
+What is OpenCV?|OpenCV is an open-source computer vision library with a C++ interface.
+What is Unreal Engine?|Unreal Engine is a game engine that uses C++ for game programming.
+What is a Makefile?|A Makefile defines rules to build a project using the make tool.
+What is CMake?|CMake is a build system generator for C++ projects that creates build files for different platforms.
+What is Git?|Git is a version control system used to track changes in source code.
+What is GitHub?|GitHub is a website for hosting Git repositories and collaborating on code.
+What is Code::Blocks?|Code::Blocks is a free C++ IDE.
+What is Visual Studio?|Visual Studio is a Microsoft IDE widely used for C++ development.
+What is VS Code?|Visual Studio Code is a lightweight code editor that supports C++ with extensions.
+What is an online C++ compiler?|An online C++ compiler lets you write and run C++ code in a web browser without installing anything.
+What is competitive programming?|Competitive programming is solving algorithmic problems under time limits, and C++ is a popular choice for it.
+What is a coding interview?|A coding interview tests problem-solving and programming skills, and C++ is often used for it.
+What is a project in C++?|A C++ project is a program made of multiple source and header files built together.
+What is a mini project in C++?|A mini project is a small program such as a bank system, library system, or ATM simulator built to practice C++.
+How to make a calculator in C++?|Read two numbers and an operator, then use a switch statement to perform the operation and print the result.
+How to make an ATM program in C++?|Use a class for the account, with functions for balance, deposit, and withdrawal, and a loop with a menu.
+How to make a bank management system in C++?|Use classes for accounts and customers, store data in files, and provide a menu for deposit, withdraw, and display.
+How to make a chatbot in C++?|Store question and answer pairs in a file, load them into a vector, and match user input by keywords, as this bot does.
+How does keyword matching work?|Keyword matching splits your input into words and finds the stored question that shares the most words with it.
+What is tokenization?|Tokenization splits text into smaller pieces called tokens, such as words.
+What is text normalization?|Text normalization converts text to a standard form, such as lowercase without punctuation.
+What is a vector of structs?|A vector of structs is a dynamic array whose elements are struct objects, like the QAPair list in this bot.
+What is a struct in this bot?|In this bot, QAPair is a struct that stores one question and one answer.
+What is a lambda in file loading?|A lambda is a small inline function, used in this bot to trim whitespace from the text.
+What is the pipe character?|The pipe character | is a vertical bar, used here to separate a question from its answer in the database file.
+Why is my program not compiling?|Check for missing semicolons, undeclared variables, missing headers, mismatched braces, and read the first error message carefully.
+Why is my program crashing?|Common causes are invalid pointers, out-of-range array access, division by zero, and infinite recursion.
+Why is my output wrong?|Check your logic, variable initialization, operators such as = versus ==, and loop conditions by printing intermediate values.
+What does error expected semicolon mean?|The compiler expects a semicolon at the end of a statement. Check the line before the error.
+What does undeclared identifier mean?|It means you used a name that has not been declared, often due to a typo or a missing header or namespace.
+What does undefined reference mean?|It is a linker error meaning a function was declared but its definition was not found.
+What does segmentation fault mean?|It means the program tried to access memory it is not allowed to, often from a bad pointer or array index.
+What does core dumped mean?|Core dumped means the program crashed and the operating system saved its memory image for debugging.
+What is a null pointer exception in C++?|C++ has no null pointer exception, but dereferencing a null pointer causes undefined behavior, often a crash.
+What is division by zero in C++?|Dividing an integer by zero causes undefined behavior and usually crashes the program, so check the divisor first.
+What is integer division?|Integer division divides two integers and discards the fractional part.
+What is the difference between integer and float division?|Integer division drops the decimal part, while floating-point division keeps it.
+What is a null terminator?|A null terminator is the character \0 that marks the end of a C-style string.
+What is the difference between '\n' and "\n"?|'\n' is a single character, while "\n" is a string containing the newline character and a null terminator.
+What are escape sequences?|Escape sequences are special character combinations like \n, \t, and \\ that represent non-printable or special characters.
+What is the tab escape sequence?|\t inserts a horizontal tab in the output.
+What is a raw string literal?|A raw string literal, written R"(text)", keeps characters like backslashes without escaping.
+What is the difference between single quotes and double quotes?|Single quotes enclose a single character, while double quotes enclose a string.
+What is an expression in C++?|An expression is a combination of variables, constants, and operators that produces a value.
+What is an lvalue reference?|An lvalue reference, declared with &, is an alias to an existing named object.
+What is the diamond operator?|C++ does not have a diamond operator like Java, but templates deduce types automatically in many cases.
+What is a callable object?|A callable object is anything that can be called like a function, such as functions, lambdas, and functors.
+What is a macro vs const?|A macro is replaced by text without type checking, while const is a typed variable checked by the compiler.
+What is the use of typeid?|typeid returns type information about an expression at runtime.
+What is RTTI?|RTTI, or Run-Time Type Information, lets a program determine the type of an object at runtime using typeid and dynamic_cast.
+What is an assertion in C++?|An assertion, written with assert, checks a condition at runtime and aborts if it fails.
+What is the use of the exit function?|The exit function terminates the program immediately and returns a status code to the operating system.
+What is the use of the system function?|The system function runs an operating system command from within a program.
+What is argc and argv?|argc is the count of command-line arguments and argv is the array of those argument strings passed to main.
+What are command line arguments?|Command-line arguments are values passed to a program when it is started, accessed through argc and argv.
+What is the time function?|The time function in ctime returns the current calendar time.
+What is ctime?|ctime is a header that provides functions for working with date and time.
+What is a random number generator?|A random number generator produces numbers that appear random, such as rand or the random library engines.
+What is a seed?|A seed is the starting value that initializes a random number generator.
+What is a header file for string?|The string header provides the std::string class.
+What is the header file for vector?|The vector header provides the std::vector container.
+What is the header file for sort?|The algorithm header provides std::sort and many other algorithms.
+What is the header file for math functions?|The cmath header provides mathematical functions like sqrt and pow.
+What is the header file for file handling?|The fstream header provides ifstream, ofstream, and fstream for file handling.
+What is the header file for cin and cout?|The iostream header provides cin and cout.
+What is bits stdc++?|bits/stdc++.h is a GCC header that includes almost all standard libraries, commonly used in competitive programming but not recommended for production.
+What is the difference between include with angle brackets and quotes?|Angle brackets search system directories for standard headers, while quotes first search the current directory for your own headers.
+What are the data types in C++?|C++ data types include basic types like int, float, double, char, and bool, derived types like arrays and pointers, and user-defined types like classes and structs.
+Name the data types in C++|The data types are int, char, float, double, bool, void, wchar_t, and also derived and user-defined types.
+List the OOP concepts in C++|The OOP concepts are class, object, encapsulation, abstraction, inheritance, and polymorphism.
+List the loops in C++|The loops in C++ are for, while, do-while, and range-based for.
+List the access specifiers in C++|The access specifiers are public, private, and protected.
+List the types of inheritance in C++|The types are single, multiple, multilevel, hierarchical, and hybrid inheritance.
+List the STL containers|STL containers include vector, list, deque, array, set, map, multiset, multimap, stack, queue, and priority_queue.
+List the keywords in C++|Some C++ keywords are int, float, class, public, private, virtual, template, new, delete, return, if, else, for, while, and switch.
+List the operators in C++|The operators include arithmetic, relational, logical, bitwise, assignment, unary, ternary, and scope resolution operators.
+Explain class and object with example|A class is a blueprint, like Car, and an object is a real instance, like myCar. Example: class Car { }; Car myCar;
+Explain inheritance with example|Example: class Animal { }; class Dog : public Animal { }; Dog inherits the members of Animal.
+Explain polymorphism with example|Example: a base class Shape has a virtual function draw, and Circle and Square override it so the right version runs at runtime.
+Explain encapsulation with example|Example: a class keeps balance private and provides public deposit and getBalance functions to control access.
+Explain constructor with example|Example: class Student { public: Student() { cout << "Created"; } }; runs automatically when an object is made.
+Explain destructor with example|Example: ~Student() { cout << "Destroyed"; } runs automatically when the object is destroyed.
+Explain pointers with example|Example: int x = 5; int *p = &x; cout << *p; prints 5 because p holds the address of x.
+Explain references with example|Example: int x = 5; int &r = x; r = 10; changes x to 10 because r is an alias for x.
+Explain templates with example|Example: template <typename T> T add(T a, T b) { return a + b; } works for int, float, and more.
+Explain virtual functions with example|Example: virtual void speak(); in the base class lets Dog override speak so a base pointer calls Dog's version.
+Explain friend function with example|Example: class A { friend void show(A a); }; allows show to access private members of A.
+Explain static members with example|Example: static int count; in a class is shared by all objects, and each constructor can increment it.
+Explain exception handling with example|Example: try { throw 10; } catch (int e) { cout << e; } catches and prints the thrown value.
+Explain file handling with example|Example: ofstream f("a.txt"); f << "Hello"; f.close(); writes text to a file.
+Explain recursion with example|Example: int fact(int n) { if (n <= 1) return 1; return n * fact(n - 1); } computes a factorial.
+Explain arrays with example|Example: int a[3] = {1, 2, 3}; cout << a[0]; prints the first element.
+Explain loops with example|Example: for (int i = 0; i < 5; i++) { cout << i; } prints 0 to 4.
+Explain functions with example|Example: int add(int a, int b) { return a + b; } and calling add(2, 3) returns 5.
+Explain function overloading with example|Example: int add(int a, int b); and double add(double a, double b); share the name add but have different parameters.
+Explain operator overloading with example|Example: Complex operator+(Complex c) lets you write c1 + c2 for complex number objects.
+Explain vectors with example|Example: vector<int> v = {1, 2, 3}; v.push_back(4); adds 4 to the end.
+Explain map with example|Example: map<string, int> m; m["age"] = 20; stores a key-value pair.
+Explain lambda with example|Example: auto sq = [](int x) { return x * x; }; sq(4) returns 16.
+Explain smart pointers with example|Example: unique_ptr<int> p = make_unique<int>(5); manages memory automatically.
+Explain abstract class with example|Example: class Shape { virtual void draw() = 0; }; cannot be instantiated but can be a base class.
+Explain multiple inheritance with example|Example: class C : public A, public B { }; makes C inherit from both A and B.
+Explain constructor overloading with example|Example: Student() and Student(string name) are two constructors with different parameters.
+Explain copy constructor with example|Example: Student(const Student &s) creates a new object by copying another one.
+Explain call by value with example|Example: void f(int x) { x = 10; } does not change the caller's variable.
+Explain call by reference with example|Example: void f(int &x) { x = 10; } changes the caller's variable.
+Explain structure with example|Example: struct Point { int x; int y; }; Point p; p.x = 5;
+Explain enum with example|Example: enum Color { RED, GREEN, BLUE }; creates named constants 0, 1, and 2.
+Explain switch case with example|Example: switch (n) { case 1: cout << "One"; break; default: cout << "Other"; }
+Explain if else with example|Example: if (a > b) cout << "a"; else cout << "b"; prints the larger of the two.
+Explain dynamic memory allocation with example|Example: int *p = new int(5); cout << *p; delete p; allocates and frees an int.
+Explain namespace with example|Example: namespace A { int x = 1; } and A::x accesses the variable.
+Explain inline function with example|Example: inline int sq(int x) { return x * x; } suggests expanding the call in place.
+Explain the this pointer with example|Example: this->age = age; sets the member variable age using the parameter with the same name.
+Explain static function with example|Example: static void show() can be called as ClassName::show() without an object.
+Explain dynamic binding with example|Example: Base *b = new Derived(); b->show(); calls Derived's show if show is virtual.
+How can I use virtual functions?|Declare a function with the virtual keyword in the base class and override it in derived classes, then call it through a base pointer.
+How can I create a class in C++?|Use the class keyword, a name, and a body with members, such as class Student { public: int id; };
+How can I create a function in C++?|Write the return type, name, parameters, and body, such as int add(int a, int b) { return a + b; }
+How can I create a constructor?|Write a member function with the same name as the class and no return type.
+How can I create a destructor?|Write a member function with the same name as the class preceded by a tilde, with no return type or parameters.
+How can I declare an array?|Write the type, name, and size, such as int arr[5];
+How can I declare a string?|Include the string header and write string name = "text";
+How can I take input in C++?|Use cin >> variable; for words and numbers, or getline for full lines.
+How can I print output in C++?|Use cout << value; to print to the console.
+How can I read a line in C++?|Use getline(cin, variable); to read a whole line including spaces.
+How can I sort a vector?|Include the algorithm header and call sort(v.begin(), v.end());
+How can I find the length of a string?|Use the length or size member function, such as s.length();
+How can I convert a string to int?|Use stoi, such as int n = stoi("123");
+How can I convert int to string?|Use to_string, such as string s = to_string(123);
+How can I find the size of an array?|Use sizeof(arr) / sizeof(arr[0]) for a C-style array, or the size function for std::array and vector.
+How can I generate random numbers?|Use rand with srand, or the random header engines like mt19937 for better quality.
+How can I check if a file exists?|Try opening it with ifstream and check is_open, or use std::filesystem::exists in C++17.
+How can I pass an object to a function?|Pass it by value, by reference, or by const reference, such as void f(const Student &s).
+How can I return multiple values from a function?|Use a struct, a pair, a tuple, or reference parameters.
+How can I prevent memory leaks?|Free every new with delete, or better, use smart pointers and RAII.
+How can I avoid segmentation faults?|Initialize pointers, check for nullptr, stay within array bounds, and avoid using freed memory.
+How can I improve my C++ skills?|Practice problems daily, build small projects, read other people's code, and learn the standard library.
+How can I get better at coding?|Code regularly, solve problems, read documentation, debug carefully, and build real projects.
+What should I learn first in C++?|Start with syntax, variables, data types, operators, control flow, functions, and arrays.
+What should I learn after C++ basics?|Learn OOP, pointers and memory, the STL, file handling, templates, and exception handling.
+What are some C++ project ideas?|Try a calculator, ATM system, library management, student record system, tic-tac-toe, or a chatbot like this one.
+Can you give me a C++ practice question?|Try writing a program that checks whether a number is prime, or reverses a string without using library functions.
+Can you explain pointers simply?|A pointer is like a house address: it does not hold the house itself, but it tells you where to find it.
+Can you explain classes simply?|A class is like a blueprint for a house, and each object is a house built from that blueprint.
+Can you explain inheritance simply?|Inheritance is like a child getting traits from a parent, so a derived class gets features from its base class.
+Can you explain polymorphism simply?|Polymorphism means one name, many forms, like a speak function that makes a dog bark and a cat meow.
+Can you explain encapsulation simply?|Encapsulation is like a capsule that bundles data and the functions that use it, hiding the inside from outside code.
+Can you explain recursion simply?|Recursion is like standing between two mirrors: a function keeps calling itself until a stopping condition is reached.
+Can you explain templates simply?|Templates are like cookie cutters: one pattern that works with different types of dough, or data types.
+Can you explain the STL simply?|The STL is a toolbox of ready-made containers and algorithms so you do not have to build them yourself.
+Can you explain vectors simply?|A vector is an array that can grow and shrink as needed.
+Can you explain references simply?|A reference is a second name for the same variable.
+Can you explain constructors simply?|A constructor is the setup function that runs automatically when an object is created.
+Can you explain virtual functions simply?|A virtual function lets the program choose the correct version of a function based on the real object type at runtime.
+Can you explain abstraction simply?|Abstraction means showing only what is needed and hiding the complicated details, like driving a car without knowing the engine.
+Can you explain OOP simply?|OOP organizes code into objects that hold data and the functions that work on that data.
+Can you explain C++ simply?|C++ is a fast, powerful programming language that lets you build everything from games to operating systems.
+Explain C++ in simple words|C++ is a fast programming language that supports classes and objects and gives you control over memory.
+Explain OOP in simple words|OOP is a way of programming by creating objects that combine data and actions.
+Explain pointers in simple words|A pointer is a variable that stores the location of another variable in memory.
+Short note on C++|C++ is a general-purpose, compiled, object-oriented language created by Bjarne Stroustrup, known for speed and flexibility.
+Short note on OOP|OOP organizes programs using classes and objects, with encapsulation, inheritance, polymorphism, and abstraction.
+Short note on inheritance|Inheritance lets one class acquire the properties of another to promote code reuse.
+Short note on polymorphism|Polymorphism lets one interface have many forms, through overloading at compile time and virtual functions at runtime.
+Short note on templates|Templates allow writing generic code that works with any data type.
+Short note on exception handling|Exception handling uses try, throw, and catch to manage runtime errors gracefully.
+Short note on STL|The STL provides containers, iterators, algorithms, and function objects for common data structure needs.
+Short note on file handling|File handling uses ifstream, ofstream, and fstream to read from and write to files.
+Short note on pointers|Pointers store memory addresses and are used for dynamic memory, arrays, and data structures.
+Short note on constructors|Constructors are special functions that initialize objects automatically when they are created.
+Short note on classes|A class is a user-defined type that bundles data and functions together and acts as a blueprint for objects.
+Short note on functions|Functions are reusable blocks of code that perform a specific task and can return a value.
+Short note on arrays|Arrays store multiple values of the same type in contiguous memory, accessed by index.
+Short note on strings|Strings store text, either as C-style character arrays or the std::string class.
+Short note on loops|Loops repeat code using for, while, or do-while statements.
+Short note on operators|Operators perform operations on operands and include arithmetic, logical, relational, and bitwise types.
+Short note on data types|Data types define what kind of values a variable can hold and how much memory it uses.
+Short note on variables|Variables are named memory locations that hold values which can change during execution.
+Short note on constants|Constants are values that cannot be changed after they are defined, declared with const or #define.
+Short note on recursion|Recursion is a technique where a function solves a problem by calling itself on smaller inputs.
+Short note on friend function|A friend function is a non-member function that can access private and protected members of a class.
+Short note on static members|Static members belong to the class and are shared by all its objects.
+Short note on virtual functions|Virtual functions enable runtime polymorphism by letting derived classes override base class behavior.
+Short note on abstract class|An abstract class has at least one pure virtual function and serves as a base for other classes.
+Short note on namespaces|Namespaces group names to avoid conflicts between identifiers.
+Short note on references|A reference is an alias for an existing variable that must be initialized when declared.
+Short note on smart pointers|Smart pointers like unique_ptr and shared_ptr manage dynamic memory automatically.
+Short note on lambda expressions|Lambda expressions are inline anonymous functions that can capture variables from their surroundings.
+Short note on operator overloading|Operator overloading gives operators custom behavior for user-defined classes.
+Short note on function overloading|Function overloading allows several functions with the same name but different parameters.
+Short note on dynamic memory allocation|Dynamic memory allocation uses new and delete to manage memory on the heap at runtime.
+Short note on encapsulation|Encapsulation bundles data and functions in a class and restricts direct access to the data.
+Short note on abstraction|Abstraction hides implementation details and exposes only the necessary interface.
+Short note on destructors|Destructors clean up an object's resources automatically when it is destroyed.
+Short note on structures|Structures group related variables of different types under one name, with public members by default.
+Short note on enumerations|Enumerations define a set of named integer constants.
+Short note on type casting|Type casting converts a value from one type to another, implicitly or explicitly.
+Short note on header files|Header files hold declarations and are included in source files using #include.

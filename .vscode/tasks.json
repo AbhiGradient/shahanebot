@@ -1,0 +1,25 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Shahane GPT: build C++",
+            "type": "shell",
+            "command": "npm run build:cpp",
+            "group": { "kind": "build", "isDefault": true },
+            "problemMatcher": ["$gcc"]
+        },
+        {
+            "label": "Shahane GPT: start server",
+            "type": "shell",
+            "command": "npm start",
+            "isBackground": true,
+            "problemMatcher": []
+        },
+        {
+            "label": "Shahane GPT: run smoke tests",
+            "type": "shell",
+            "command": "npm test",
+            "problemMatcher": []
+        }
+    ]
+}
